@@ -242,3 +242,4 @@ help if
 ./countdown.sh arg1
 ./countdown.sh arg11
 ./countdown.sh arg11
+./countdown.sh 4
