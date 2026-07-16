@@ -321,3 +321,7 @@ echo $?
 ls --color=auto
 ls --color=auto
 ls --color=auto -y
+ls --color=auto --help
+ls --color=auto --help
+test --help
+help test
