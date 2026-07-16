@@ -325,3 +325,4 @@ ls --color=auto --help
 ls --color=auto --help
 test --help
 help test
+[[ -a countdown.sh ]]
