@@ -294,3 +294,13 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh
 ./questionnaire.sh
+echo $?
+echo $?
+echo $?
+./countdown.sh
+./questionnaire.sh
+echo $?
+./countdown.sh 7
+echo $?
+[[ 4 -le 5 ]]
+echo $?
