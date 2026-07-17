@@ -439,3 +439,4 @@ ls --color=auto bin
 sudo ls /bin
 ls --color=auto /bin
 man sleep
+sleep 3
