@@ -494,3 +494,6 @@ chmod +x bingo.sh
 printenv
 echo $LANG
 declare -p
+RANDOM
+echo RANDOM
+echo $RANDOM
