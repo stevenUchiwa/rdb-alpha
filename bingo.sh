@@ -7,4 +7,4 @@ NUMBER=$RANDOM%75
 
 echo $NUMBER
 
-echo $LANG 038 24 214 86
+echo $LANG
