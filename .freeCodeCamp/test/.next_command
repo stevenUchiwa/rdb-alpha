@@ -605,3 +605,5 @@ help until
 help test
 ./fortune.sh
 help [[ expression ]]
+[[ hello == hello ]]
+[[ hello == hello ]]
