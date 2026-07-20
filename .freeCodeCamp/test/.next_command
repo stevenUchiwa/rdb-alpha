@@ -585,3 +585,4 @@ help test
 clear
 ./bingo.sh
 ./bingo.sh
+touch fortune.sh
