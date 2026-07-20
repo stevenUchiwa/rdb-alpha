@@ -8,7 +8,12 @@ N=$(( RANDOM % 6 ))
 
 GET_FORTUNE () {
   echo "Ask a yes or no question:"
+
+  read QUESTION
 }
 
 echo ${RESPONSES[$N]}
+
 GET_FORTUNE
+
+echo $QUESTION
