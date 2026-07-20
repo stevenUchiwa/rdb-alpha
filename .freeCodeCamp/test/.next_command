@@ -614,3 +614,6 @@ help [[ expression ]]
 [[ "hello world" =~ ^h.+d$ ]]
 VAR="hello world"
 echo $VAR
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ $VAR == "hello world" ]]
