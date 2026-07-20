@@ -607,3 +607,4 @@ help test
 help [[ expression ]]
 [[ hello == hello ]]
 [[ hello == hello ]]
+[[ hello == world ]]
