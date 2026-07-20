@@ -583,3 +583,5 @@ help test
 help if
 help test
 clear
+./bingo.sh
+./bingo.sh
