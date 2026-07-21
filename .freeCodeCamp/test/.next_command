@@ -686,3 +686,5 @@ helop
 help
 help type
 type echo
+type echo
+type read
