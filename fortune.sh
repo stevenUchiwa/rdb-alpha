@@ -22,6 +22,7 @@ GET_FORTUNE () {
 echo ${RESPONSES[$N]}
 
 
+GET_FORTUNE
 
 until [[ $QUESTION =~ \?$ ]]
 do
