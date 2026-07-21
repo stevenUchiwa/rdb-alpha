@@ -677,3 +677,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+touch five.sh
