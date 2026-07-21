@@ -688,3 +688,4 @@ help type
 type echo
 type echo
 type read
+type if
